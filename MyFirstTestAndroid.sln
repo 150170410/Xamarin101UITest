@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstTestAndroid", "MyFirstTestAndroid\MyFirstTestAndroid.csproj", "{C210D39A-4A01-4C34-9B7B-9F46ED15CBE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstTestAndroid.UITests", "MyFirstTestAndroid.UITests\MyFirstTestAndroid.UITests.csproj", "{20401AD8-B00F-4D84-9EAB-F776001C9E43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C210D39A-4A01-4C34-9B7B-9F46ED15CBE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C210D39A-4A01-4C34-9B7B-9F46ED15CBE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C210D39A-4A01-4C34-9B7B-9F46ED15CBE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C210D39A-4A01-4C34-9B7B-9F46ED15CBE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20401AD8-B00F-4D84-9EAB-F776001C9E43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20401AD8-B00F-4D84-9EAB-F776001C9E43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20401AD8-B00F-4D84-9EAB-F776001C9E43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20401AD8-B00F-4D84-9EAB-F776001C9E43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
